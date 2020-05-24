@@ -1,4 +1,5 @@
 # Get_R_S_Z_RawTx
+[![Run on Repl.it](https://repl.it/badge/github/hubsen1980/Get_R_S_Z_RawTx)](https://repl.it/github/hubsen1980/Get_R_S_Z_RawTx)
 Get R_S_Z VALUES from bitcoin RawTx 
 
 before you run it you must edit Get_R_S_Z_RawTx.py
