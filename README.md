@@ -1,6 +1,10 @@
 # Get_R_S_Z_RawTx
-Get R_S_Z VALUES from bitcoin RawTx 
+Get R_S_Z VALUES from bitcoin RawTx
+
+
 [![Run on Repl.it](https://repl.it/badge/github/shiky8/Get_R_S_Z_RawTx)](https://repl.it/github/shiky8/Get_R_S_Z_RawTx)
+
+
 before you run it you must edit Get_R_S_Z_RawTx.py
 
 and change tx = and put the raw tx 
