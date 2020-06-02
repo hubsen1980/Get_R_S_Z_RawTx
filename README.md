@@ -24,4 +24,8 @@ to get the raw tx from tx id use this
 
 https://blockchain.info/tx/ (put your tx id) ?format=hex
 
+that a video that show how to use it
+
+https://drive.google.com/file/d/1mH2k95uL8CsPPdgqQBuVUTIVt-8Li8Vy/view
+
 i hope you like it 
